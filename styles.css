@@ -2,17 +2,19 @@ h1 {
     color:rgb(0, 255, 20)
 }
 footer { 
-    with:100%
-    background-color:aqua;
+    with: 100%
+    background-color: aqua;
     color:grey;
-    bottom:0;
-    font-size:2em;
+    bottom: 0;
+    font-size: 0.5em;
     text-align: center;
-    
+    transition: 0.5s;
 }
 footer: hover{
-    color:lightblue;
+    color: lightblue;
+    font-size: 2em;
 }
+
  
 
 
