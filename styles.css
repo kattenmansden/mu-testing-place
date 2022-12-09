@@ -3,6 +3,8 @@ h1 {
 }
 footer { 
     with:100%
+        background-color:aqua;
+    color:grey;
 }
  
 
