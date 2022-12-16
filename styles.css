@@ -4,7 +4,7 @@ h1 {
 footer { 
      
     width: 100%
-    background-color: rgb (23,74,230);
+    background-color: rgb(23,74,230);
     color: grey;
     bottom: 0;
     font-size: 0.5em;
@@ -17,8 +17,14 @@ footer:hover{
     font-size: 2em;
 }
 
+header {
+    background-color: rgb(252,14,7);
+    text-align: center;
+    width: 50%;
+}
  
-
+header:hover{
+    font-size: 1.5em;
 
  
 
