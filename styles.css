@@ -20,13 +20,13 @@ footer:hover{
 header {
     background-color: rgb(252,14,7);
     text-align: center;
-    width: 50%;
+    width: 100%;
     height: max-content;
 }
  
 header:hover{
     font-size: 1.5em;
-
+}
  
 
 
