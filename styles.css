@@ -21,6 +21,7 @@ header {
     background-color: rgb(252,14,7);
     text-align: center;
     width: 50%;
+    height: max-content;
 }
  
 header:hover{
