@@ -10,7 +10,7 @@ footer {
     text-align: center;
     transition: 0.5s;
 }
-footer: hover{
+footer:hover{
     color: lightblue;
     font-size: 2em;
 }
