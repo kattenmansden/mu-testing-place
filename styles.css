@@ -11,7 +11,7 @@ footer {
     transition: 0.5s;
 }
 footer:hover{
-    background-color: 2,252,165; 
+    background-color: rgb(2,252,165); 
     color: lightblue;
     font-size: 2em;
 }
