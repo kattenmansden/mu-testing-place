@@ -10,6 +10,11 @@ footer {
     font-size: 0.5em;
     text-align: center;
     transition: 0.5s;
+    position: fixed;
+    left: 0;
+    down: 0;
+    
+    
 }
 footer:hover{
     background-color: rgb(2,252,165); 
@@ -22,6 +27,10 @@ header {
     text-align: center;
     width: 100%;
     height: max-content;
+    position: fixed;
+    left: 0;
+    top: 0;
+
 }
  
 header:hover{
