@@ -4,7 +4,7 @@ h1 {
 footer { 
      
     width: 100%;
-    background-color: rgb(33,150,100);
+    background-color: #C490D1;
     color: yellow;
     bottom: 0;
     font-size: 0.5em;
@@ -16,20 +16,22 @@ footer {
     
 }
 footer:hover{
-    background-color: rgb(2,252,165); 
+    background-color:#70FF0A ; 
+   
+    
     color: lightblue;
     font-size: 2em;
 }
 
 header {
-    background-color: rgb(252,14,7);
+    background-color: #70FF0A;
     text-align: center;
     width: 100%;
     height: max-content;
     position: fixed;
     left: 0;
     top: 0;
-
+    transition:1s;
 }
  
 header:hover{
