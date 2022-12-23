@@ -4,7 +4,7 @@ h1 {
 footer { 
      
     width: 100%;
-    background-color: #C490D1;
+    background-color: #439A86;
     color: yellow;
     bottom: 0;
     font-size: 0.5em;
@@ -17,14 +17,12 @@ footer {
 }
 footer:hover{
     background-color:#70FF0A ; 
-   
-    
     color: lightblue;
     font-size: 2em;
 }
 
 header {
-    background-color: #70FF0A;
+    background-color: #439A86;
     text-align: center;
     width: 100%;
     height: max-content;
@@ -36,7 +34,9 @@ header {
  
 header:hover{
     font-size: 1.5em;
+    background-color: #70FF0A;
 }
+
 
 
  
